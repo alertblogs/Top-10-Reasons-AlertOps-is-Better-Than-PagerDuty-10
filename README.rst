@@ -1,40 +1,28 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #10
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+When it comes to alert management, “noise” sometimes can be problematic. For example, consider what could happen if an incident management team receives thousands of urgent alerts, despite the fact that only a handful of these notifications are mission-critical.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+In this scenario, an incident management team likely will be overwhelmed by the sheer volume of notifications. Meanwhile, if all incident alerts are sent to all team members, at all times, some team members may start to tune out the notifications that they feel do not apply to them. As a result, alert fatigue may start to spread across the incident management team. And if alert fatigue lingers, it may cause an incident management team to miss out on high-priority notifications, increasing the probability of costly, time-intensive network and system outages.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+How Does AlertOps Help Reduce the Risk of Alert Fatigue?
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Unlike PagerDuty and many other alert escalation and incident management software, AlertOps provides open inbound and outbound APIs that ensure you can receive or send any type of JSON object. Therefore, you can use AlertOps to talk to any system that retrieves and delivers web API calls to streamline incident management team communication.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Meanwhile, AlertOps’ custom workflows enable you to automate incident management like never before. These workflows make it simple to route messages to the right people, teams or systems, regardless of when an incident occurs. For instance, thanks to AlertOps’ custom workflows, you can receive a notification from an incident monitoring tool, set up an alert in AlertOps and create a ticket in your incident management system – all without lifting a finger. Plus, AlertOps’ custom workflows guarantee that all alert status changes and updates will instantly be sent to your ticketing or incident management system.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+AlertOps allows you to organize all alerts by event topic and keep track of alert history. It enables you to view alerts from all of your tools in a single place, as well as automatically acknowledge, update or close these notifications. Additionally, you can simultaneously close an AlertOps alert and incident as soon as an incident is fully resolved.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Let’s not forget about AlertOps’ custom templates, either. These templates allow you to establish custom fields for your alerts and map incoming and outgoing data. Furthermore, you can use custom fields as triggers for workflows to optimize your incident management team’s productivity and efficiency.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Lastly, AlertOps provides an Exchange integration that allows you to sync group memberships to the alert escalation and incident management software. This feature helps simplify group management, making it an ideal option for organizations that have hundreds of users or teams to monitor.
 
-1 Red Canary 2021 Threat Detection Report
+With enterprise-ready alert management capabilities, your incident management team can get the support it needs to handle incidents of all sizes. This team will be better equipped than ever before to track and analyze incidents, and ultimately, discover the best ways to prevent one-time network or system outages from becoming ongoing issues.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-10-2/
 
 Read more:
 ====
